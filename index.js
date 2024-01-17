@@ -16,7 +16,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "http://localhost:3001",
-      "https://qe-frontend.vercel.app",
+      "https://gray-creepy-sea-urchin.cyclic.app",
     ],
     credentials: true,
   })
